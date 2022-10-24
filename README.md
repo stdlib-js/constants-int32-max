@@ -165,7 +165,7 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/constants-int32-max/main/LICENSE
 
-[max-int32]: http://en.wikipedia.org/wiki/2147483647
+[max-int32]: https://en.wikipedia.org/wiki/2147483647
 
 <!-- <related-links> -->
 
