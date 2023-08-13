@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../tmp/index.js"],
-  "sourcesContent": ["/** @license Apache-2.0 */\n'use strict';\nvar INT32_MAX = 2147483647|0;\nmodule.exports = INT32_MAX;\n"],
-  "mappings": "aAEA,IAAIA,EAAY,WAChB,OAAO,QAAUA",
-  "names": ["INT32_MAX"]
-}
