@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import INT32_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int32-max@deno/mod.js';
+import INT32_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int32-max@v0.1.0-deno/mod.js';
 ```
 
 #### INT32_MAX
@@ -67,7 +67,7 @@ var bool = ( INT32_MAX === 2147483647 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import INT32_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int32-max@deno/mod.js';
+import INT32_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int32-max@v0.1.0-deno/mod.js';
 
 console.log( INT32_MAX );
 // => 2147483647
