@@ -44,7 +44,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-INT32_MAX = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int32-max@umd/browser.js' )
+INT32_MAX = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int32-max@v0.1.1-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -56,7 +56,7 @@ var INT32_MAX = require( 'path/to/vendor/umd/constants-int32-max/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-int32-max@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-int32-max@v0.1.1-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -94,7 +94,7 @@ var bool = ( INT32_MAX === 2147483647 );
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-int32-max@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-int32-max@v0.1.1-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
